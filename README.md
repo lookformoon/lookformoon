@@ -6,7 +6,7 @@
 </h1>
 
 <!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://github.com/lookformoon/README.gif"/></div>
+<div align="center" ><img order-radius="100px" src="https://github.com/lookformoon/people.gif"/></div>
 <br>
 
 
