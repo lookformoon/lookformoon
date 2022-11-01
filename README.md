@@ -6,12 +6,12 @@
 </h1>
 
 <!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://github.com/lookformoon/people.gif"/></div>
+<div align="center" ><img order-radius="100px" src="https://github.com/lookformoon/lookformoon/people.gif"/></div>
 <br>
 
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://github.com/lookformoon/snake.svg" /></div>
+<div align="center"><img src="https://github.com/lookformoon/lookformoon/snake.svg" /></div>
 
 
 #  🙋 Hello
